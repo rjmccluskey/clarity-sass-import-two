@@ -1,5 +1,16 @@
 # ClaritySassImportExampleTwo
 
+## To recreate the error...
+
+```
+npm i
+ng build
+```
+
+See comment in src/clr-variables.scss for more info
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server

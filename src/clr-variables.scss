@@ -1,0 +1,7 @@
+// According to https://github.com/vmware/clarity/issues/1956...
+// This should be the minimal imports needed to expose clarity scss variables, but this breaks in v0.12
+
+@import "~@clr/ui/src/color/utils/colors.clarity";
+@import "~@clr/ui/src/color/variables.color";
+@import "~@clr/ui/src/utils/variables.global";
+@import "~@clr/ui/src/typography/variables.typography";
