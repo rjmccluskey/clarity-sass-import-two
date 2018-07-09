@@ -31,6 +31,11 @@
               "node_modules/@clr/ui/clr-ui.min.css",
               "node_modules/@clr/icons/clr-icons.min.css"
             ],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "node_modules"
+              ]
+            },
             "scripts": [
               "node_modules/@clr/icons/clr-icons.min.js",
               "node_modules/@webcomponents/custom-elements/custom-elements.min.js"
